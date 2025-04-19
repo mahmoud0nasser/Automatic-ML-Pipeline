@@ -126,35 +126,35 @@ Automatic-ML-Pipeline/
 ## 📊 Application Screenshots
 
 ### Data Processing
-![Data Processing Interface](misc/1.PNG)
+![Data Processing Interface](https://raw.githubusercontent.com/mahmoud0nasser/Automatic-ML-Pipeline/main/misc/1.PNG)
 *Upload and process your data with an intuitive interface*
 
 ### Data Analysis
-![Data Analysis Dashboard](misc/2.PNG)
+![Data Analysis Dashboard](https://raw.githubusercontent.com/mahmoud0nasser/Automatic-ML-Pipeline/main/misc/2.PNG)
 *Comprehensive data analysis and visualization tools*
 
 ### Feature Engineering
-![Feature Engineering](misc/3.PNG)
+![Feature Engineering](https://raw.githubusercontent.com/mahmoud0nasser/Automatic-ML-Pipeline/main/misc/3.PNG)
 *Automatic feature engineering and preprocessing*
 
 ### Model Training
-![Model Training](misc/4.PNG)
+![Model Training](https://raw.githubusercontent.com/mahmoud0nasser/Automatic-ML-Pipeline/main/misc/4.PNG)
 *Train multiple models with automated hyperparameter tuning*
 
 ### Prediction Interface
-![Prediction Interface](misc/5.PNG)
+![Prediction Interface](https://raw.githubusercontent.com/mahmoud0nasser/Automatic-ML-Pipeline/main/misc/5.PNG)
 *Make predictions with trained models*
 
 ### Ensemble Voting
-![Ensemble Voting](misc/6.PNG)
+![Ensemble Voting](https://raw.githubusercontent.com/mahmoud0nasser/Automatic-ML-Pipeline/main/misc/6.PNG)
 *Combine predictions from multiple models*
 
 ### Results Visualization
-![Results Visualization](misc/7.PNG)
+![Results Visualization](https://raw.githubusercontent.com/mahmoud0nasser/Automatic-ML-Pipeline/main/misc/7.PNG)
 *Visualize model performance and predictions*
 
 ### Download Results
-![Download Results](misc/8.PNG)
+![Download Results](https://raw.githubusercontent.com/mahmoud0nasser/Automatic-ML-Pipeline/main/misc/8.PNG)
 *Export and download your results*
 
 ## 🤝 Contributing
